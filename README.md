@@ -38,6 +38,6 @@ If you would like to tailor things further, running:
 
 will report a full set of command line options for the application.
 
-<video width="320" height="240" controls>
-  <source src="demo.mov" type="video/mp4">
-</video>
+Demo
+-----
+[![](https://markdown-videos-api.jorgenkh.no/youtube/E246W53TMQQ)](https://youtu.be/E246W53TMQQ)
