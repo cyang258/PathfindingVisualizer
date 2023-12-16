@@ -37,3 +37,7 @@ If you would like to tailor things further, running:
   > ./naviNode --help
 
 will report a full set of command line options for the application.
+
+<video width="320" height="240" controls>
+  <source src="demo.mov" type="video/mp4">
+</video>
